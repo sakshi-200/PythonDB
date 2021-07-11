@@ -1,0 +1,7 @@
+DB queries :
+
+1]create database bookstoredb ;
+2]use bookstoredb;
+3]show tables ;
+4]create table books(bookcode int(20)primary key,bookname varchar(20),category varchar(20),author varchar(20),publication varchar(20,edition int(10),year int(10),price int(10));
+5] alter table books add column review varchar(500);
